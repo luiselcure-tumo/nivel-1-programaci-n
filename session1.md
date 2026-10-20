@@ -6,7 +6,7 @@
 
 La programación está fuertemente relacionada con los datos.
 
-###todo buen programa realizan 3 acciones: 
+### todo buen programa realizan 3 acciones: 
  1. aceptar datos, 
  2. procesar o manipular los datos y 
  3. regresar los datos.
